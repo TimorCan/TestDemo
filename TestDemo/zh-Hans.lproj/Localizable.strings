@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  TestDemo
+
+  Created by zhoucan on 2017/1/2.
+  Copyright © 2017年 verfing. All rights reserved.
+*/
+"top1" = "上";
+"bot1" = "下";

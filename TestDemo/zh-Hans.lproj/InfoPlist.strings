@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  TestDemo
+
+  Created by zhoucan on 2017/1/3.
+  Copyright © 2017年 verfing. All rights reserved.
+*/
+"CFBundleDisplayName" = "测试demo";

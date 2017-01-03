@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  TestDemo
+
+  Created by zhoucan on 2017/1/3.
+  Copyright © 2017年 verfing. All rights reserved.
+*/
+
+//InfoPlist.strings 名字固定死的，app名字国际化
+//key:CFBundleDisplayName   value:GJTestDemo
+
+"CFBundleDisplayName" = "GJTestDemo";
